@@ -1,0 +1,2 @@
+# SquiizyyBotWebUI
+Simple Web FAQ 
